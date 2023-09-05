@@ -1,0 +1,2 @@
+# TIPEII
+Servidor de inventariado
